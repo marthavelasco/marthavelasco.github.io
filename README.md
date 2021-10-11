@@ -1,4 +1,4 @@
 # Martha Velasco / Black Onyx 
-Hola
-Bonjour
+Hola,
+Bonjour,
 Welcome! 
